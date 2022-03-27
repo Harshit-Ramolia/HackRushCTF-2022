@@ -1,5 +1,8 @@
 # HackRush 2022 CTF
 
+Team Name : C0d3Br34k3r5
+Members : Harshit Ramolia and Harshil Purohit
+
 We participated in this 36 hours long capture the flag (CTF) competition hosted by HackRush at IITGN and secured the **4th position**. 
 
 <br>
