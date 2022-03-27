@@ -46,7 +46,7 @@ Problem | Category | Points | Flag
 
     Using ghidra decompiled the binary file and found some equation which can lead us to solve the flag. 
     
-    **FLAG: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HackRushCTF{R5a_1S_7HaT_$1MPL3??}**
+    **FLAG: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HackRushCTF{s1mple_REv}**
 
 <br>
 
