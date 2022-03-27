@@ -8,18 +8,18 @@ We participated in this 36 hours long capture the flag (CTF) competition hosted 
 Problem | Category | Points | Flag
 --------|:----------:| :-----: |:-----:
 |||<br>
-[Data Breach](https://github.com/Harshit-Ramolia/HackRush-2021-CTF/blob/main/WriteUp.md#Data_Breach) | Binary Exploitation | 150 | HackRushCTF{F0rM47_57rInGS_CaN_Le4k_1NFoRM4TiON}
+[Data Breach](https://github.com/Harshit-Ramolia/HackRushCTF-2022#data-breach) | Binary Exploitation | 150 | HackRushCTF{F0rM47_57rInGS_CaN_Le4k_1NFoRM4TiON}
 |||<br>
-[Flag Validator](https://github.com/Harshit-Ramolia/HackRush-2021-CTF/blob/main/WriteUp.md#simple_check-200-pts) | Reverse Engineering | 150 | HackRushCTF{s1mple_REv}
+[Flag Validator](https://github.com/Harshit-Ramolia/HackRushCTF-2022#flag-validator) | Reverse Engineering | 150 | HackRushCTF{s1mple_REv}
 |||<br>
-[Really Simple Algorithm](https://github.com/Harshit-Ramolia/HackRush-2021-CTF/blob/main/WriteUp.md#ancient-50-pts) | Cryptography | 50 | HackRushCTF{R5a_1S_7HaT_$1MPL3??}
-[Safety x2](https://github.com/Harshit-Ramolia/HackRush-2021-CTF/blob/main/WriteUp.md#prime-magic-1-100-pts) | Cryptography | 200 | Flag: HackRushCTF{DOuBLe_1$_no7_alWay5_b3t7ER}
+[Really Simple Algorithm](https://github.com/Harshit-Ramolia/HackRushCTF-2022#really-simple-algorithm) | Cryptography | 50 | HackRushCTF{R5a_1S_7HaT_$1MPL3??}
+[Safety x2](https://github.com/Harshit-Ramolia/HackRushCTF-2022#safety-x2) | Cryptography | 200 | Flag: HackRushCTF{DOuBLe_1$_no7_alWay5_b3t7ER}
 |||<br>
-[Welcome](https://github.com/Harshit-Ramolia/HackRush-2021-CTF/blob/main/WriteUp.md#ancient-50-pts) | Miscellaneous | 10 | HackRushCTF{WE1cOME_70_H4ckRu5hCTF}
-[Where Flag?](https://github.com/Harshit-Ramolia/HackRush-2021-CTF/blob/main/WriteUp.md#ancient-50-pts) | Miscellaneous | 50 | HackRushCTF{SometIM3s_stUFf_I5_H1DD3n_1n_pLAIn_519ht}
-[Sniff Sniff](https://github.com/Harshit-Ramolia/HackRush-2021-CTF/blob/main/WriteUp.md#ancient-50-pts) | Miscellaneous | 100 | HackRushCTF{K3y804rD_keyS_c4N_be_taPpED}
-[Onion](https://github.com/Harshit-Ramolia/HackRush-2021-CTF/blob/main/WriteUp.md#ancient-50-pts) | Miscellaneous | 150 | HackRushCTFHackRushCTF{7hE_rAb17_hoL3_GOeS_dEE33p}
-[Foreign Seek](https://github.com/Harshit-Ramolia/HackRush-2021-CTF/blob/main/WriteUp.md#ancient-50-pts) | Miscellaneous | 200 | HackRushCTF{so_ManY_pl4ces_T0_hIde_in_1mA6e5}
+[Welcome](https://github.com/Harshit-Ramolia/HackRushCTF-2022#welcome) | Miscellaneous | 10 | HackRushCTF{WE1cOME_70_H4ckRu5hCTF}
+[Where Flag?](https://github.com/Harshit-Ramolia/HackRushCTF-2022#where-flag) | Miscellaneous | 50 | HackRushCTF{SometIM3s_stUFf_I5_H1DD3n_1n_pLAIn_519ht}
+[Sniff Sniff](https://github.com/Harshit-Ramolia/HackRushCTF-2022#sniff-sniff) | Miscellaneous | 100 | HackRushCTF{K3y804rD_keyS_c4N_be_taPpED}
+[Onion](https://github.com/Harshit-Ramolia/HackRushCTF-2022#onion) | Miscellaneous | 150 | HackRushCTFHackRushCTF{7hE_rAb17_hoL3_GOeS_dEE33p}
+[Foreign Seek](https://github.com/Harshit-Ramolia/HackRushCTF-2022#foreign-seek) | Miscellaneous | 200 | HackRushCTF{so_ManY_pl4ces_T0_hIde_in_1mA6e5}
 
 
 <br>
